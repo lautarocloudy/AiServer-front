@@ -372,8 +372,9 @@ ol {
   width: 55%;
   margin-top: -0, 5%;
   border-radius: 25px;
-  color: #2b2b2b;
+  color: #ffffff;
   margin-left: 36%;
+  background: black;
 }
 
 .form-label {
