@@ -5,7 +5,14 @@ const Nav = () => {
     <>
       <nav className="custom-nav">
         <ul className="cont-ul">
-       
+        <li className="develop">
+            <li className="front">
+
+              {/* <ul className="ul-third"> */}
+              <li className="back"><NavLink to="/social/crear-cliente">Clientes </NavLink></li>
+              {/* </ul> */}
+            </li>
+          </li>
 
           <li className="develop">
             <NavLink aria-current="page" to="/social/salir">Salir</NavLink>
